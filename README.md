@@ -101,5 +101,3 @@ Email: guopeige@gmail.com
 LinkedIn: https://www.linkedin.com/in/peigeguo/
 
 GitHub: https://github.com/peige-guo
-
-Portfolio / older projects: https://github.com/GuoPeige
